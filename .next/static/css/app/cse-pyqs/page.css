@@ -1,0 +1,13 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[4].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[13].oneOf[4].use[2]!./node_modules/@next/font/google/target.css?{"path":"src\\app\\font.ts","import":"Denk_One","arguments":[{"subsets":["latin"],"weight":"400","display":"swap"}],"variableName":"denkOne"} ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+  font-family: '__Denk_One_Fallback_396cf8';
+  src: local("Arial");
+  ascent-override:105.03%;
+  descent-override:21.92%;
+  line-gap-override:0.00%;
+  size-adjust:98.47%;
+}@font-face {font-family: '__Denk_One_Fallback_Fallback_396cf8';src: local("Arial");ascent-override: 105.03%;descent-override: 21.92%;line-gap-override: 0.00%;size-adjust: 98.47%
+}.__className_396cf8 {font-family: '__Denk_One_Fallback_396cf8', '__Denk_One_Fallback_Fallback_396cf8';font-weight: 400;font-style: normal
+}
